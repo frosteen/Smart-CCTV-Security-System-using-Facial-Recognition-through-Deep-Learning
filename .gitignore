@@ -1,0 +1,16 @@
+dataset/*
+captured/*
+Documentation/*
+FOR IMAM
+logs/*
+recorded/*
+backupprogram.py
+~recognizer - Copy.py
+FINAL PPT.pptx
+Smart CCTV Final Paper.docx
+trainer.yml
+!dataset/.gitkeep
+!captured/.gitkeep
+!Documentation/.gitkeep
+!logs/.gitkeep
+!recorded/.gitkeep

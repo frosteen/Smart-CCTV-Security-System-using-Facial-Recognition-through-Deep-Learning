@@ -1,0 +1,6 @@
+PyQt4
+cv2
+numpy
+dlib
+face_recognition
+PIL

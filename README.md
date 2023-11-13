@@ -9,7 +9,7 @@ For more additional information about the project. Please check <a href="./Smart
 ⭐ Recognized as an Excellent Work - National<br>
 
 ## Requirements
-```python
+```bash
 # Executed on Python3.7.8
 PyQt4
 cv2

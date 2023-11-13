@@ -1,5 +1,5 @@
 # Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning
-**A practice of International Project Design from Chung Yuan Christian University (CYCU), Taoyuan City, Taiwan**
+A practice of International Project Design from Chung Yuan Christian University (CYCU), Taoyuan City, Taiwan
 
 ## Awards & Recognition
 ⭐ Presented in Chung Yuan Christian University (CYCU), Taoyuan City, Taiwan<br>

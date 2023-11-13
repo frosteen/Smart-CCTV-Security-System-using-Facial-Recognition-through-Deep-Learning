@@ -24,11 +24,11 @@ Facial recognition integrated with deep learning outcomes great improvement in m
 In sum, the study was successful and was able to function the way it was expected to. Yet, the researchers recommend others whom might continue this project, to improve the system by adding more cameras to the system. This is to ensure that the system to be more effective once applied in a real situation. Also, for them to remember that when adding another or more cameras, the processing power of the microcontroller must be improved as well. The researchers suggest to try clustering multiple Raspberry Pis, and make use of: parallel computing, multiprocessing, or multi threading. Also, by trying the latest model of the Raspberry Pi which is Raspberry Pi model 3B+, this will theoretically help the system to handle more processes at a single period of time.
 
 ## Contributors
-* Ian Chen
-* Chi-An Li
 * Luis Daniel Pambid
 * Carl Francis John Reyes
 * Aivje Tribiana
+* Ian Chen
+* Chi-An Li
 * Yuya Tagaya
 * Imam Jurjawi
 

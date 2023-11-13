@@ -8,8 +8,19 @@ For more additional information about the project. Please check <a href="./Smart
 ⭐ Recognized as an Excellent Work - International<br>
 ⭐ Recognized as an Excellent Work - National<br>
 
-## Installation
+## Requirements
 ```python
+# Executed on Python3.7.8
+PyQt4
+cv2
+numpy
+dlib
+face_recognition
+PIL
+```
+
+## Installation
+```bash
 pip install -r requirements.txt
 ```
 

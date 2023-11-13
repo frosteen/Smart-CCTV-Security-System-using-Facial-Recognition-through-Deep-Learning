@@ -71,6 +71,6 @@ In sum, the study was successful and was able to function the way it was expecte
 [12] The world's simplest facial recognition api for Python and the command line. Retrieved from https://github.com/ageitgey/face_recognition<br>
 
 ## Tip
-**If you liked our hard work, I would really appreciate if you can buy some coffee for us.**
+**If you like my hard work, I would appreciate it if you could buy some coffee for me.**
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/frosteen)

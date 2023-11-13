@@ -4,10 +4,12 @@ Documentation/*
 FOR IMAM
 logs/*
 recorded/*
-MainProgram.py.bak
+Main.py.bak
 ~recognizer.py.bak
 Smart CCTV Final Paper.docx
 trainer.yml
+ENCODINGS.txt
+DATABASE.txt
 !dataset/.gitkeep
 !captured/.gitkeep
 !Documentation/.gitkeep
